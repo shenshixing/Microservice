@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: A
+server:
+    port: 9000
+    contextPath: /boot
+    address: 127.0.0.1
+    sessionTimeout: 30
